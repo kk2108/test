@@ -1,4 +1,8 @@
 aaaaaaaaa
 bbbbbbbbbbb
 ccccccccccc
+<<<<<<< HEAD
 test auto pull to fork branch
+=======
+6636编辑
+>>>>>>> 128963eb1680d29898ba57a9a970578e2e2b407e
